@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
 	name='lib-fetcher-image',
-	version='1.0',
+	version='2.0',
 	packages=find_packages(),
 	install_requires=[
 		'requests',
@@ -13,5 +13,5 @@ setup(
 	description='Library for search images',
 	author='Yurij',
 	author_email='yuran.ignatenko@yanderx.ru',
-	url='https://github.com/YuranIgnatenko/lib-fetch-image',
+	url='https://github.com/YuranIgnatenko/lib-fetcher-image',
 )
