@@ -1,19 +1,19 @@
-# lib-fetcher-image
+# lib_fetcher_image
 
-`lib-fetcher-image` это библиотека Python для поиска изображений,
+`lib_fetcher_image` это библиотека Python для поиска изображений,
 а так же получения на них ссылок в случае успеха с возможностью скачивания
 
 ## Установка из PyPI
 
 ```bash
-pip install lib-fetcher-image
+pip install lib_fetcher_image
 ```
 
 ## Использование репозитория GitHub
 
 ```bash
-git clone https://github.com/YuranIgnatenko/lib-fetcher-image.git
-cd lib-fetcher-image
+git clone https://github.com/YuranIgnatenko/lib_fetcher_image.git
+cd lib_fetcher_image
 pip install .
 ```
 

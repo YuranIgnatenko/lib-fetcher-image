@@ -1,8 +1,8 @@
 Metadata-Version: 2.4
-Name: lib-fetcher-image
+Name: lib_fetcher_image
 Version: 2.0
 Summary: Library for search images
-Home-page: https://github.com/YuranIgnatenko/lib-fetcher-image
+Home-page: https://github.com/YuranIgnatenko/lib_fetcher_image
 Author: Yurij
 Author-email: yuran.ignatenko@yanderx.ru
 Requires-Dist: requests
