@@ -21,7 +21,7 @@ pip install .
 
 ```bash
 # импорт библиотеки
-from lib_fetcher_image.fetcher import FetchImage
+from lib_fetcher_image.fetcher import FetcherImage
 
 # создание обьекта
 fetcher_image = FetcherImage()
