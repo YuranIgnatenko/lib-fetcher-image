@@ -1,4 +1,4 @@
-from lib_fetcher_image import FetcherImage
+from lib_fetcher_image.fetcher import FetcherImage
 
 # create fetcher-object
 fetcher_image = FetcherImage()

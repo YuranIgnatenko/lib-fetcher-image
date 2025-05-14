@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
 	name='lib_fetcher_image',
-	version='2.3',
+	version='2.3.2',
 	packages=find_packages(),
 	install_requires=[
 		'requests',
@@ -14,6 +14,6 @@ setup(
 	long_description=open('README.md', encoding='utf-8').read(),
     long_description_content_type="text/markdown",
 	author='Yurij',
-	author_email='yuran.ignatenko@yanderx.ru',
+	author_email='yuran.ignatenko@yandex.ru',
 	url='https://github.com/YuranIgnatenko/lib_fetcher_image',
 )
